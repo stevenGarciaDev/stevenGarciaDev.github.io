@@ -55,7 +55,7 @@ ul.nav a:hover {
 }
 
 .main-heading {
-	font-family: 'Lobster', cursive;
+	font-family: 'Lobster', 'Montserrat', sans-serif;
 	margin-bottom: 30px;
 }
 
@@ -96,10 +96,6 @@ contact area in index page
 
 #contact {
 	background-color: #fff;
-}
-
-.contact-subheader {
-	font-family: 'Lobster', cursive;
 }
 
 /* ----------
